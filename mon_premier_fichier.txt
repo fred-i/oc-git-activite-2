@@ -1,2 +1,5 @@
-Cr�ation d'un premier fichier depuis mon ordinateur
+Création d'un premier fichier depuis mon ordinateur
 Commit et push depuis mon ordi
+
+Fichier bien reçu sur Github 
+Modification du fichier depuis Github ;)
