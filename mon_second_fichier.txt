@@ -1,1 +1,3 @@
-Création du second fichier depuis l ordi local 
+CrÃ©ation du second fichier depuis l ordi local 
+
+Modification depuis Github du second fichier, il semblerait que l'excercice soit fini ;)
